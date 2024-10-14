@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sesibugoheu.pages.dev/sitemap.xml
